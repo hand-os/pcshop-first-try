@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33d580f1-c8e6-4bee-b8b5-7f8df00d4698" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="134" column="56" lean-forward="true" selection-start-line="134" selection-start-column="56" selection-end-line="134" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="screen.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/static/stylesheet/screen.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="1583" column="23" lean-forward="false" selection-start-line="1583" selection-start-column="23" selection-end-line="1583" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="101" column="8" lean-forward="true" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="8" />
+              <folding>
+                <marker date="1568312921960" expanded="false" signature="440:459" ph="..." />
+                <marker date="1568312921960" expanded="false" signature="1171:1205" ph="..." />
+                <marker date="1568312921960" expanded="false" signature="1695:1729" ph="..." />
+                <marker date="1568312921960" expanded="false" signature="2233:2267" ph="..." />
+                <marker date="1568312921960" expanded="false" signature="2760:2794" ph="..." />
+                <marker date="1568312921960" expanded="false" signature="3468:3481" ph="..." />
+                <marker date="1568312921960" expanded="false" signature="3657:3670" ph="..." />
+                <marker date="1568312921960" expanded="false" signature="3845:3858" ph="..." />
+                <marker date="1568312921960" expanded="false" signature="4032:4045" ph="..." />
+                <marker date="1568312921960" expanded="false" signature="4219:4232" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="color.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/static/stylesheet/color.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="39" column="27" lean-forward="false" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>s_button_1</find>
+      <find>image</find>
+      <find>s_tab_box</find>
+      <find>product_descr</find>
+      <find>33%</find>
+      <find>airbnb.ru</find>
+      <find>avito</find>
+      <find>olx</find>
+      <find>milliarderr.com</find>
+      <find>href</find>
+      <find>Handmade</find>
+      <find>мфо</find>
+      <find>периодом</find>
+      <find>стеклотар</find>
+      <find>css/blo</find>
+      <find>body</find>
+      <find>tabsa</find>
+      <find>#shop_c</find>
+      <find>#cart_menu .s_submenu</find>
+      <find>#intro h2</find>
+      <find>post</find>
+      <find>s_average</find>
+      <find>product</find>
+      <find>/cart/</find>
+      <find>/cart</find>
+      <find>св</find>
+      <find>search</find>
+      <find>#search_bar</find>
+      <find>site</find>
+      <find>7ed</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main/templatetags/filters.py" />
+        <option value="$PROJECT_DIR$/main/templates/craft.html" />
+        <option value="$PROJECT_DIR$/main/static/js/jquery/jquery.slides.js" />
+        <option value="$PROJECT_DIR$/main/static/js/shoppica.js" />
+        <option value="$PROJECT_DIR$/cart/cart.py" />
+        <option value="$PROJECT_DIR$/main/static/js/jquery/jquery.prettyPhoto.js" />
+        <option value="$PROJECT_DIR$/main/static/js/jquery/jquery.lightbox-0.5.pack.js" />
+        <option value="$PROJECT_DIR$/main/static/stylesheet/lightbox.css" />
+        <option value="$PROJECT_DIR$/main/decorators.py" />
+        <option value="$PROJECT_DIR$/myshop/settings.py" />
+        <option value="$PROJECT_DIR$/main/templates/product.html" />
+        <option value="$PROJECT_DIR$/main/admin.py" />
+        <option value="$PROJECT_DIR$/main/models.py" />
+        <option value="$PROJECT_DIR$/main/urls.py" />
+        <option value="$PROJECT_DIR$/myshop/urls.py" />
+        <option value="$PROJECT_DIR$/main/templates/contacts.html" />
+        <option value="$PROJECT_DIR$/main/views.py" />
+        <option value="$PROJECT_DIR$/main/static/stylesheet/media.css" />
+        <option value="$PROJECT_DIR$/main/templates/filter_col.html" />
+        <option value="$PROJECT_DIR$/cart/context_processor.py" />
+        <option value="$PROJECT_DIR$/cart/views.py" />
+        <option value="$PROJECT_DIR$/main/templates/cart_col.html" />
+        <option value="$PROJECT_DIR$/main/static/stylesheet/color.css" />
+        <option value="$PROJECT_DIR$/main/templates/base.html" />
+        <option value="$PROJECT_DIR$/main/static/stylesheet/screen.css" />
+        <option value="$PROJECT_DIR$/main/templates/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="69" />
+    <option name="y" value="13" />
+    <option name="width" value="1250" />
+    <option name="height" value="727" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pcshop-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pcshop-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pcshop-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pcshop-master" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pcshop-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pcshop-master" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pcshop-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pcshop-master" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="stylesheet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pcshop-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pcshop-master" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main/static/js/jquery" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main/static/js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33d580f1-c8e6-4bee-b8b5-7f8df00d4698" name="Default" comment="" />
+      <created>1510909836385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510909836385</updated>
+    </task>
+    <task id="LOCAL-00001" summary="123">
+      <created>1524404522155</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1524404522155</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="69" y="13" width="1364" height="768" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25379938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/templates/versus.html" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/templates/cart.html" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/static/js/jquery/jquery.slides.js" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/static/stylesheet/color.css" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/static/stylesheet/prettyPhoto.css" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/static/js/jquery/jquery.featuredimagezoomer.js" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/static/js/shoppica.js" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/static/js/jquery/jquery.prettyPhoto.js" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/static/stylesheet/lightbox.css" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/static/js/jquery.lightbox-0.5.pack.js" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/static/js/jquery/lightbox.js" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/decorators.py" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/templates/craft.html" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/forms.py" />
+    <entry file="file:$PROJECT_DIR$/../..///home/handofsorrow/.local/lib/python3.5/site-packages/django/db/models/base.py" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/myshop/settings.py" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/admin.py" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/cart/forms.py" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/templates/index_2.html" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/templates/index_1.html" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/static/stylesheet/blog.css" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/models.py" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/templates/index - копия.html" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/product.html" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/templates/product.html" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/cart/urls.py" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/myshop/urls.py" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/urls.py" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/templatetags/filters.py" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/static/stylesheet/media.css" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/templates/filter_col.html" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/static/stylesheet/screen.css" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/views.py" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/templates/base.html" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/templates/cart_col.html" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/cart/context_processor.py" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/cart/views.py" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/cart/cart.py" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/templates/contacts.html" />
+    <entry file="file:$PROJECT_DIR$/../..///mnt/media/pcshop-master/main/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/main/static/stylesheet/color.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="39" column="27" lean-forward="false" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="134" column="56" lean-forward="true" selection-start-line="134" selection-start-column="56" selection-end-line="134" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/static/stylesheet/screen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="1583" column="23" lean-forward="false" selection-start-line="1583" selection-start-column="23" selection-end-line="1583" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="101" column="8" lean-forward="true" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="8" />
+          <folding>
+            <marker date="1568312921960" expanded="false" signature="440:459" ph="..." />
+            <marker date="1568312921960" expanded="false" signature="1171:1205" ph="..." />
+            <marker date="1568312921960" expanded="false" signature="1695:1729" ph="..." />
+            <marker date="1568312921960" expanded="false" signature="2233:2267" ph="..." />
+            <marker date="1568312921960" expanded="false" signature="2760:2794" ph="..." />
+            <marker date="1568312921960" expanded="false" signature="3468:3481" ph="..." />
+            <marker date="1568312921960" expanded="false" signature="3657:3670" ph="..." />
+            <marker date="1568312921960" expanded="false" signature="3845:3858" ph="..." />
+            <marker date="1568312921960" expanded="false" signature="4032:4045" ph="..." />
+            <marker date="1568312921960" expanded="false" signature="4219:4232" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

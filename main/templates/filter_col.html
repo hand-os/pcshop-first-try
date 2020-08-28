@@ -1,0 +1,75 @@
+{%load filters%}
+<script src="https://code.jquery.com/ui/jquery-ui-git.js"></script>
+<link rel="stylesheet" href="https://code.jquery.com/ui/jquery-ui-git.css">
+      <div id="cart_side" class="s_box_1 s_cart_holder">
+            <form method="post">
+
+
+                <p>
+                <input type="checkbox" id="kolvo_check"> Есть в наличии?
+                </p>
+                <h3>Ценовой диапозон</h3>
+<input class="form-control" name="price" id="price">
+
+<div id="slider-range"></div>
+                <script>
+                $(function(){
+$( "#slider-range" ).slider({
+range: true,
+min: {{min_price|price_convert_int}},
+max: {{max_price|price_convert_int}},
+values: [{{min_price|price_convert_int}},{{max_price|price_convert_int}}],
+slide: function( event, ui ) {
+$( "#price" ).val(  ui.values[ 0 ] + " UZS - " + ui.values[ 1 ] + " UZS");
+}
+});
+$( "#price" ).val( $( "#slider-range" ).slider( "values", 0 ) +
+" UZS - " + $( "#slider-range" ).slider( "values", 1 )+" UZS" );
+});</script>
+                <div class="col-md-12 col-sm-2">
+                    <h3>{{prop_list.0}}</h3>
+                    {% for item in p1 %}
+                    <input type="checkbox" name="item1" value="{{item.0}}"> {{item.0}} ({{item.1}}) <br/>
+                    {% endfor %}
+                </div>
+
+                <div class="col-md-12 col-sm-2">
+                    <h3>{{prop_list.1}}</h3>
+                    {% for item in p2 %}
+                    <input type="checkbox" name="item2" value="{{item.0}}"> {{item.0}} ({{item.1}}) <br/>
+                    {% endfor %}
+                </div>
+
+                <div class="col-md-12 col-sm-2">
+                    <h3>{{prop_list.2}}</h3>
+                    {% for item in p3 %}
+                    <input type="checkbox" name="item3" value="{{item.0}}"> {{item.0}} ({{item.1}}) <br/>
+                    {% endfor %}
+                </div>
+
+                <div class="col-md-12 col-sm-2">
+                    <h3>{{prop_list.3}}</h3>
+                    {% for item in p4 %}
+                    <input type="checkbox" name="item4" value="{{item.0}}"> {{item.0}} ({{item.1}}) <br/>
+                    {% endfor %}
+                </div>
+
+                <div class="col-md-12 col-sm-2">
+                    <h3>{{prop_list.4}}</h3>
+                    {% for item in p5 %}
+                    <input type="checkbox" name="item5" value="{{item.0}}"> {{item.0}} ({{item.1}}) <br/>
+                    {% endfor %}
+                </div>
+
+                <div class="col-md-12 col-sm-2">
+                    <h3>{{prop_list.5}}</h3>
+                    {% for item in p6 %}
+                    <input type="checkbox" name="item6" value="{{item.0}}"> {{item.0}} ({{item.1}}) <br/>
+                    {% endfor %}
+                </div>
+            <br />
+                <p>
+                <input type="submit" value="Фильтровать">
+                </p>
+            </form>
+      </div>
